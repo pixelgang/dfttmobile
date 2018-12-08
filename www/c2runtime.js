@@ -29299,7 +29299,6 @@ cr.getObjectRefTable = function () { return [
 	cr.plugins_.Sprite.prototype.acts.Spawn,
 	cr.behaviors.Physics.prototype.acts.SetVelocity,
 	cr.system_object.prototype.exps.choose,
-	cr.plugins_.Keyboard.prototype.cnds.IsKeyDown,
 	cr.plugins_.Sprite.prototype.cnds.CompareInstanceVar,
 	cr.plugins_.Function.prototype.acts.CallFunction,
 	cr.plugins_.Sprite.prototype.acts.SetInstanceVar,
